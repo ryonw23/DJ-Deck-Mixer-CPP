@@ -1,0 +1,1 @@
+This folder contains the code for the libraries used in Projucer.  Projucer is required to compile and run "OtoDecks.jucer" in the main folder.
